@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
-    carContainer:{
+    bikeContainer:{
         width:'100%',
         height:'100%'
       },
